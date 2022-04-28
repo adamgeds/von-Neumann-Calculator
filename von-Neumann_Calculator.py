@@ -44,7 +44,6 @@ def main():
     print("1. Addition")
     print("2. Subtraction")
     print("3. Multiplication")
-    print("4. Divison (not yet working)")
 
     operation = input("Which operation would you like?\n")
 
